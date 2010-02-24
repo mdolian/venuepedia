@@ -1,0 +1,25 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  venue_name: MyString
+  venue_state: MyString
+  venue_city: MyString
+  venue_country: MyString
+  sbd_name: MyString
+  phone: MyString
+  email: MyString
+  website: MyString
+  contact: MyString
+  whatever: MyString
+
+two:
+  venue_name: MyString
+  venue_state: MyString
+  venue_city: MyString
+  venue_country: MyString
+  sbd_name: MyString
+  phone: MyString
+  email: MyString
+  website: MyString
+  contact: MyString
+  whatever: MyString

@@ -1,0 +1,6 @@
+development: &defaults
+  :adapter:  mysql  
+  :host:     localhost
+  :database: venuepedia_development
+  :username: root
+  :password: tuwd7n
